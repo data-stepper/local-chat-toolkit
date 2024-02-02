@@ -1,0 +1,7 @@
+streamlit
+openai
+requests
+pytest
+pytest-cov
+black
+python-dotenv
